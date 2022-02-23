@@ -1,1 +1,1 @@
-# project-skripsiV2
+# aplikasi-kedai
